@@ -14,7 +14,7 @@ localeTitle: 制作一个技术文档页面
 <strong>需求 1：</strong>我能看见一个对应<code>id="main-doc"</code>的<code>main</code>元素，它包含页面的主要内容（技术文档）。
 <strong>需求 2：</strong>在<code>#main-doc</code>元素内，我能看见至少 5 个<code>section</code>元素，每个元素都有一个<code>main-section</code>类属性。
 <strong>需求 3：</strong>每个<code>.main-section</code>中的第一个元素应该是<code>header</code>元素，其中包含描述该部分主题的文本。
-<strong>需求 4：</strong>具有<code>main-section</code>类的每个<code>section</code>元素应该有一个与包含在其中的每个<code>header</code>的文本相对应的 id，用下划线替换文本中的所有空格（例如，包含标题 "Javascript and Java" 的<code>section</code>应该有对应<code>id="Javascript_and_Java"</code>）。
+<strong>需求 4：</strong>具有<code>main-section</code>类的每个<code>section</code>元素应该有一个与包含在其中的每个<code>header</code>的文本相对应的 id，用下划线替换文本中的所有空格（例如，包含标题 "JavaScript and Java" 的<code>section</code>应该有对应<code>id="JavaScript_and_Java"</code>）。
 <strong>需求 5：</strong>所有<code>.main-section</code>元素总计包含至少 10 个<code>p</code>元素。
 <strong>需求 6：</strong>所有<code>.main-section</code>元素总计包含至少 5 个<code>code</code>元素。
 <strong>需求 7：</strong>所有<code>.main-section</code>元素总计包含至少 5 个<code>li</code>项。

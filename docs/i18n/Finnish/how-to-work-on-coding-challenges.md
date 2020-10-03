@@ -244,7 +244,7 @@ Haastetestit voivat hyödyntää Node.js ja Chai.js väitöskirjakirjastoja. Tar
 Tässä on erityiset muotoiluohjeet haasteen seed codeille:
 
 - Käytä kahta välilyöntiä sisennykseen
-- Javascript-lausunnot päättyvät puolipisteeseen
+- JavaScript-lausunnot päättyvät puolipisteeseen
 - Käytä kaksinkertaisia lainausmerkkejä tarvittaessa
 - Kommenttimerkkien ja kommentin välillä tulisi olla välilyönti itse
 
