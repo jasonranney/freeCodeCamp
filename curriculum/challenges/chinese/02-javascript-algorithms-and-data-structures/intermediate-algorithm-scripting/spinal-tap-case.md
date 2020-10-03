@@ -8,7 +8,7 @@ localeTitle: 短线连接格式
 
 ## Description
 <section id='description'>
-在这道题目中，我们需要写一个函数，把一个字符串转换为“短线连接格式”。短线连接格式的意思是，所有字母都是小写，且用<code>-</code>连接。比如，对于<code>Hello World</code>，应该转换为<code>hello-world</code>；对于<code>I love_Javascript-VeryMuch</code>，应该转换为<code>i-love-javascript-very-much</code>。
+在这道题目中，我们需要写一个函数，把一个字符串转换为“短线连接格式”。短线连接格式的意思是，所有字母都是小写，且用<code>-</code>连接。比如，对于<code>Hello World</code>，应该转换为<code>hello-world</code>；对于<code>I love_JavaScript-VeryMuch</code>，应该转换为<code>i-love-javascript-very-much</code>。
 如果你遇到了问题，请点击<a href='https://forum.freecodecamp.one/t/topic/157' target='_blank'>帮助</a>。
 </section>
 

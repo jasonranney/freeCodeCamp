@@ -9,7 +9,7 @@ localeTitle: 复合赋值之 +=
 
 ## Description
 <section id='description'>
-在编程当中，通常通过赋值来修改变量的内容。记住，赋值时 Javascript 会先计算<code>=</code>右边的内容，所以我们可以写这样的语句：
+在编程当中，通常通过赋值来修改变量的内容。记住，赋值时 JavaScript 会先计算<code>=</code>右边的内容，所以我们可以写这样的语句：
 <code>myVar = myVar + 5;</code>
 以上是最常见的运算赋值语句，即先运算、再赋值。还有一类操作符是一步到位既做运算也赋值的。
 其中一种就是<code>+=</code>运算符。

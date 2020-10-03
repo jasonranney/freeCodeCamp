@@ -244,7 +244,7 @@ Utfordringstester gjør bruk av Node.js og Chai.js hevder bibliotekene. Hvis nø
 Her er spesifikke formateringsveiledninger for utfordringsnøkkeltallet:
 
 - Bruk to mellomrom for å rykke inn
-- Javascript-kommandoer mot slutten av en semikolon
+- JavaScript-kommandoer mot slutten av en semikolon
 - Bruk doble sitater der relevant
 - Kommentarer som er laget burde ha et mellomrom mellom kommentaren og kommentaren
 
