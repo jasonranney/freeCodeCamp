@@ -75,7 +75,7 @@ log.start();
     }
     console.log(`There were ${mergeConflictCount} PRs with potential merge conflicts out of ${count} PRs received from GitHub`);
   } else {
-    throw 'There were no open PRs received from Github';
+    throw 'There were no open PRs received from GitHub';
   }
 })()
   .then(async () => {
